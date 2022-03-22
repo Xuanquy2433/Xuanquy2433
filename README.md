@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xuanquy2433
+- 👋 Hi, I’m @XuanQuy
 - 👀 I’m interested in Programmers.
 - 🌱 I'm currently learning in university
 - 💞️ I’m looking to collaborate on ...
