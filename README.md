@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @XuanQuy.
--   💕 I'm a Programmers.
-- 👀 I’m interested in Java, Javascript ...
-- 🌱 I'm currently learning in university
-- 💞️ I’m looking to collaborate on github,...
+
 ...
 
 <!---
